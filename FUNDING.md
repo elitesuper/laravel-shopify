@@ -4,7 +4,7 @@ Information, guidelines, and FAQs, on sponsorship and donations for this reposit
 
 ## Introduction
 
-Several individuals have contacted myself (@osiset) on opening up this repository for sponsorship or donations to support ongoing development. A range of reasons have been given from the individuals; such as: their work has utilized the package for clients, the package has saved them time and money, it's assisted them in learning Laravel development/testing much better, and so on.
+Several individuals have contacted myself (@elitesuper) on opening up this repository for sponsorship or donations to support ongoing development. A range of reasons have been given from the individuals; such as: their work has utilized the package for clients, the package has saved them time and money, it's assisted them in learning Laravel development/testing much better, and so on.
 
 Personally, I have been opposed to opening up sponsorship or donations in the past because I've seen other repositories implement it, and end up regretting it because the community would expect things such as daily commits, or issues to be resolved same-day, etc. However, in talking to some individuals recently, it appears this is not the case, so I am now opening it up.
 
@@ -18,7 +18,7 @@ Sponsorship and donations not only help ease that conversation, but it also give
 
 ## Use of Funds
 
-Any donations received will be a great thank you, and contribute to the development of two repositories. This repository (osiset/laravel-shopify), and it's underlying API repository (osiset/basic-shopify-api).
+Any donations received will be a great thank you, and contribute to the development of two repositories. This repository (elitesuper/laravel-shopify), and it's underlying API repository (elitesuper/basic-shopify-api).
 
 Any sponsorship or donation will also add the individual's Github profile to this file as a thank you, unless the individual wishes to remain anonymous.
 
